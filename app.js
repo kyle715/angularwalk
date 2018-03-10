@@ -1,3 +1,3 @@
 angular.module('angular-walk', []).controller('kylesController', function(){
-        this.product = cars;
+        this.product = this;
       });
